@@ -13,9 +13,9 @@ const Results = () => {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="text-center mb-16">
           <h2 className="text-foreground mb-6">
-            PROVEN
+            CLIENT
             <br />
-            <span className="text-gradient">RESULTS</span>
+            <span className="text-gradient">TRANSFORMATIONS</span>
           </h2>
           <p className="text-xl text-muted-foreground max-w-3xl mx-auto">
             Data doesn't lie. These are the real numbers from real clients who committed 
