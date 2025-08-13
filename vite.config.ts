@@ -17,6 +17,10 @@ export default defineConfig(({ mode }) => ({
   resolve: {
     alias: {
       "@": path.resolve(__dirname, "./src"),
+  base: '/ap-physiques-forge/', // MUST match your GitHub repo name exactly
+  build: {
+    outDir: 'dist',
+    emptyOutDir: true,
     },
   },
   base: mode === 'production' ? '/ap-physiques-forge/' : '/', // Add this line
