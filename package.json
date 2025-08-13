@@ -9,7 +9,6 @@
     "build:dev": "vite build --mode development",
     "lint": "eslint .",
     "preview": "vite preview"
-    "homepage": "https://dondeux-codes.github.io/apphysiques"
   },
   "dependencies": {
     "@hookform/resolvers": "^3.9.0",
